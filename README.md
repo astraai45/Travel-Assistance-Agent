@@ -47,3 +47,8 @@ This project provides an **AI-powered Travel Assistant** that helps users plan p
 Thanks to Langchain, Ollama, and Chroma for providing the essential tools for document retrieval and language processing.
 
 Streamlit for enabling easy and interactive web app development.
+
+
+👥 Contributors
+@pavanbalaji45
+@Balaji-Kartheek
