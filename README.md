@@ -50,5 +50,5 @@ Streamlit for enabling easy and interactive web app development.
 
 
 👥 Contributors
-@pavanbalaji45
-@Balaji-Kartheek
+[@pavanbalaji45]
+[@Balaji-Kartheek]
